@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelNationApi", "TravelNationApi\TravelNationApi.csproj", "{BB047C2C-B549-4D39-8F73-968D4B834BED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelNationApi", "TravelNationApi\TravelNationApi.csproj", "{BB047C2C-B549-4D39-8F73-968D4B834BED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelNationWeb", "TravelNationWeb\TravelNationWeb.csproj", "{223798A9-3112-4D39-A595-E628A26D453C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BB047C2C-B549-4D39-8F73-968D4B834BED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB047C2C-B549-4D39-8F73-968D4B834BED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB047C2C-B549-4D39-8F73-968D4B834BED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{223798A9-3112-4D39-A595-E628A26D453C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{223798A9-3112-4D39-A595-E628A26D453C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{223798A9-3112-4D39-A595-E628A26D453C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{223798A9-3112-4D39-A595-E628A26D453C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
